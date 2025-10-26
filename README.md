@@ -9,4 +9,4 @@
 ## 🎨 Tampilan Halaman
 Berikut hasil tampilan tugas:
 
-![Tampilan Halaman](assets\images/profilecard.png)
+![Tampilan Halaman](assets/images/profilecard.png)
